@@ -1,0 +1,5 @@
+Example CGI site.
+
+It should be possible to use this with any CGI-capable webserver,
+such as Apache, lighttpd, nginx, thttpd, etc.
+
